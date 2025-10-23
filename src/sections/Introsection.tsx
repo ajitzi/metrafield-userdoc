@@ -5,8 +5,8 @@ import {
     CardTitle,
     CardDescription,
     CardContent,
-} from "../components/ui/card";
-import { Alert, AlertDescription } from "../components/ui/alert";
+} from "@/components/ui/card";
+import { Alert, AlertDescription } from "@/components/ui/alert";
 import {
     Info,
     Layers,

@@ -5,16 +5,16 @@ import {
     CardTitle,
     CardDescription,
     CardContent,
-} from "../components/ui/card";
-import { Alert, AlertDescription } from "../components/ui/alert";
-import { Badge } from "../components/ui/badge";
-import { Separator } from "../components/ui/separator";
+} from "@/components/ui/card";
+import { Alert, AlertDescription } from "@/components/ui/alert";
+import { Badge } from "@/components/ui/badge";
+import { Separator } from "@/components/ui/separator";
 import {
     Accordion,
     AccordionContent,
     AccordionItem,
     AccordionTrigger,
-} from "../components/ui/accordion";
+} from "@/components/ui/accordion";
 import {
     Info,
     AlertCircle,

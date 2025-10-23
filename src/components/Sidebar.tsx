@@ -1,7 +1,7 @@
 import React from "react";
-import { Button } from "./ui/button";
-import { Tabs, TabsList, TabsTrigger } from "./ui/tabs";
-import { Separator } from "./ui/separator";
+import { Button } from "@/components/ui/button";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Separator } from "@/components/ui/separator";
 import { FileText } from "lucide-react";
 import { cn } from "./ui/utils";
 

@@ -8,14 +8,14 @@ import {
 } from "lucide-react";
 
 // Import sections
-import IntroSection from "./sections/IntroSection";
-import ContentTypesSection from "./sections/ContentTypesSection";
-import FieldsSection from "./sections/FieldsSection";
-import BestPracticesSection from "./sections/BestPracticesSection";
+import IntroSection from "@/sections/IntroSection";
+import ContentTypesSection from "@/sections/ContentTypesSection";
+import FieldsSection from "@/sections/FieldsSection";
+import BestPracticesSection from "@/sections/BestPracticesSection";
 
 // Import sidebar
-import Sidebar from "./components/Sidebar";
-import translations from "./translations/translations";
+import Sidebar from "@/components/Sidebar";
+import translations from "@/translations/translations";
 
 export default function DocumentationApp() {
   const [activeSection, setActiveSection] = useState("intro");
