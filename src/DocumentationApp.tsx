@@ -8,13 +8,13 @@ import {
 } from "lucide-react";
 
 // Import sections
-import IntroSection from "@/sections/IntroSection";
-import ContentTypesSection from "@/sections/ContentTypesSection";
-import FieldsSection from "@/sections/FieldsSection";
-import BestPracticesSection from "@/sections/BestPracticesSection";
+import IntroSection from "@/sections/IntroSection.tsx";
+import ContentTypesSection from "@/sections/ContentTypesSection.tsx";
+import FieldsSection from "@/sections/FieldsSection.tsx";
+import BestPracticesSection from "@/sections/BestPracticesSection.tsx";
 
 // Import sidebar
-import Sidebar from "@/components/Sidebar";
+import Sidebar from "@/components/Sidebar.tsx";
 import translations from "@/translations/translations";
 
 export default function DocumentationApp() {
