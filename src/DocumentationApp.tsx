@@ -8,10 +8,10 @@ import {
 } from "lucide-react";
 
 // Import sections
-import IntroSection from "@/sections/IntroSection.tsx";
-import ContentTypesSection from "@/sections/ContentTypesSection.tsx";
-import FieldsSection from "@/sections/FieldsSection.tsx";
-import BestPracticesSection from "@/sections/BestPracticesSection.tsx";
+import IntroSection from "@/sections/Introsection.tsx";
+import ContentTypesSection from "@/sections/Contenttypessection.tsx";
+import FieldsSection from "@/sections/Fieldssection.tsx";
+import BestPracticesSection from "@/sections/Bestpracticessection.tsx";
 
 // Import sidebar
 import Sidebar from "@/components/Sidebar.tsx";
